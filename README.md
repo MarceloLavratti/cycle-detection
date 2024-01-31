@@ -1,2 +1,2 @@
 # cycle-detection
-Solution for Cycle Detection Problem
+Solution for Cycle Detection Problem in Python
